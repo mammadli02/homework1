@@ -1,15 +1,11 @@
 * {
     box-sizing: border-box;
-
 }
 
 body {
     background-color: darkgrey;
     width: 80%;
     margin: 0 auto;
-
-
-
 }
 
 header {
@@ -20,6 +16,7 @@ header {
 }
 
 p {
+    
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     line-height: 35px;
@@ -39,17 +36,16 @@ nav {
 
 section {
     float: left;
-
     background-color: rgb(233, 231, 231);
     margin: 10px;
     padding: 10px;
     height: 300px;
     width: 45%;
-
+   
 }
 
 div {
-    display: block;
+    
     background-color: darkgrey;
     height: 200px;
     width: 100%;
@@ -57,13 +53,13 @@ div {
 
 }
 
-div heading {
+div main{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     line-height: 35px;
     text-align: center;
     color: rgb(233, 231, 231);
-    display: block;
+    
     margin: 10px;
     padding: 10px;
 
@@ -79,7 +75,7 @@ div h1 {
     line-height: 35px;
     text-align: center;
     color: darkgrey;
-    display: block;
+   
 }
 
 div p {
@@ -92,7 +88,7 @@ div p {
     line-height: 35px;
     text-align: center;
     color: darkgrey;
-    display: block;
+    
 }
 
 .main {
